@@ -257,3 +257,7 @@ org\.ifaa\.aidl.*
 # MistOS adds
 org.mist.*
 com.mist.*
+
+###################################################
+# Camera Extensions
+com.camera.camera2.extensions.*
